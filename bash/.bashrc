@@ -127,3 +127,7 @@ export NVM_DIR="$HOME/.nvm"
 
 # Created by `pipx` on 2024-08-23 08:03:32
 export PATH="$PATH:/home/dci-student/.local/bin"
+
+
+# Starship prompt
+eval "$(starship init bash)"
